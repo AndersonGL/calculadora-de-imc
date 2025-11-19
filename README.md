@@ -10,9 +10,6 @@ Uma calculadora simples e prática para determinar o **IMC (Índice de Massa Cor
 - Interface rápida e intuitiva
 - Layout responsivo (se aplicável)
 
-## 📊 Fórmula utilizada
-
-
 ## 🧠 Objetivo do Projeto
 Treinar e demonstrar habilidades como:
 - Lógica de programação
